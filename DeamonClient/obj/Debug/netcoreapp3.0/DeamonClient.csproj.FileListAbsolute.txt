@@ -1,0 +1,15 @@
+D:\Stejsky\@PGR_ŠKOLA\Project_PRG\DeamonClient\DeamonClient\bin\Debug\netcoreapp3.0\DeamonClient.exe
+D:\Stejsky\@PGR_ŠKOLA\Project_PRG\DeamonClient\DeamonClient\obj\Debug\netcoreapp3.0\DeamonClient.csprojAssemblyReference.cache
+D:\Stejsky\@PGR_ŠKOLA\Project_PRG\DeamonClient\DeamonClient\obj\Debug\netcoreapp3.0\DeamonClient.AssemblyInfoInputs.cache
+D:\Stejsky\@PGR_ŠKOLA\Project_PRG\DeamonClient\DeamonClient\obj\Debug\netcoreapp3.0\DeamonClient.AssemblyInfo.cs
+D:\Stejsky\@PGR_ŠKOLA\Project_PRG\DeamonClient\DeamonClient\bin\Debug\netcoreapp3.0\DeamonClient.deps.json
+D:\Stejsky\@PGR_ŠKOLA\Project_PRG\DeamonClient\DeamonClient\bin\Debug\netcoreapp3.0\DeamonClient.runtimeconfig.json
+D:\Stejsky\@PGR_ŠKOLA\Project_PRG\DeamonClient\DeamonClient\bin\Debug\netcoreapp3.0\DeamonClient.runtimeconfig.dev.json
+D:\Stejsky\@PGR_ŠKOLA\Project_PRG\DeamonClient\DeamonClient\bin\Debug\netcoreapp3.0\DeamonClient.dll
+D:\Stejsky\@PGR_ŠKOLA\Project_PRG\DeamonClient\DeamonClient\bin\Debug\netcoreapp3.0\DeamonClient.pdb
+D:\Stejsky\@PGR_ŠKOLA\Project_PRG\DeamonClient\DeamonClient\bin\Debug\netcoreapp3.0\System.Net.Http.Formatting.dll
+D:\Stejsky\@PGR_ŠKOLA\Project_PRG\DeamonClient\DeamonClient\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\Stejsky\@PGR_ŠKOLA\Project_PRG\DeamonClient\DeamonClient\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+D:\Stejsky\@PGR_ŠKOLA\Project_PRG\DeamonClient\DeamonClient\obj\Debug\netcoreapp3.0\DeamonClient.csproj.CopyComplete
+D:\Stejsky\@PGR_ŠKOLA\Project_PRG\DeamonClient\DeamonClient\obj\Debug\netcoreapp3.0\DeamonClient.dll
+D:\Stejsky\@PGR_ŠKOLA\Project_PRG\DeamonClient\DeamonClient\obj\Debug\netcoreapp3.0\DeamonClient.pdb
