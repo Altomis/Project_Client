@@ -14,16 +14,8 @@ namespace DeamonClient
     class Program
     {
         static void Main(string[] args)
-        {
-            
-            //Crud crud = new Crud();
-            Console.WriteLine("Pro manuální přidání stanice do zálohovacího systému stiskněte +");
-            string klavesa = Console.ReadLine();
-            if (klavesa == "+")
-            {
-                RunAsync().Wait();
-                //crud.Post();
-            }
+        {            
+            ClientProcess.RunAsync().GetAwaiter().GetResult();
             Console.ReadLine();
 
             /*

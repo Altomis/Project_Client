@@ -5209,11 +5209,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Stejsky\\@PGR_ŠKOLA\\Project_PRG\\OstrýProjekt\\DeamonClient\\DeamonClient\\DeamonClient.csproj",
+      "projectUniqueName": "D:\\Stejsky\\@PGR_ŠKOLA\\Project_PRG\\OstrýProjekt\\Test_PrepsaniDeamon\\DeamonClient\\DeamonClient\\DeamonClient.csproj",
       "projectName": "DeamonClient",
-      "projectPath": "D:\\Stejsky\\@PGR_ŠKOLA\\Project_PRG\\OstrýProjekt\\DeamonClient\\DeamonClient\\DeamonClient.csproj",
+      "projectPath": "D:\\Stejsky\\@PGR_ŠKOLA\\Project_PRG\\OstrýProjekt\\Test_PrepsaniDeamon\\DeamonClient\\DeamonClient\\DeamonClient.csproj",
       "packagesPath": "C:\\Users\\Stejsky\\.nuget\\packages\\",
-      "outputPath": "D:\\Stejsky\\@PGR_ŠKOLA\\Project_PRG\\OstrýProjekt\\DeamonClient\\DeamonClient\\obj\\",
+      "outputPath": "D:\\Stejsky\\@PGR_ŠKOLA\\Project_PRG\\OstrýProjekt\\Test_PrepsaniDeamon\\DeamonClient\\DeamonClient\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
